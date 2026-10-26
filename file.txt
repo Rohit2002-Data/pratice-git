@@ -1,0 +1,5 @@
+mkdir git-practice
+cd git-practice
+git init
+git status
+git log
